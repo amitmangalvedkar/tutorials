@@ -4,11 +4,19 @@
 
 ## Comments ##
 
-## Output and Input Commands ##
+
+## Output and Input Commands ##   
+### Output ###   
+### Input ###    
+
+
+## File Operations: Output (Append and Overwrite), Input, Seek, Delete ##   
 
 ## Constants, Variables and Assignments ##
 
 ## Arrays - Scalars, Vectors, Matrices, Tensors ##
+
+## Dictionary, Tuple, JSON ##
 
 ## Conditions ##
 
@@ -16,8 +24,18 @@
 
 ## Functions - No argument, Multiple arguments, Overridding, Overloading ##
 
+## String Manipulation ##
+
+## Database Operations ##
+
 ## Classes - Fields, Object Methods, Static Methods ##
 
 ## Classes - Inheritance, Multiple Inheritance ##
 
-## Sockets - Server Socket, Client Socket, SSL Socket ##
+## Packages and Namespaces ##   
+### Community Packages ###   
+### Creating Packages ###   
+
+## Sockets - Server Socket, Client Socket, SSL Socket, Raw Sockets ##
+
+## Multithreading ##
